@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magnatic-website-new/static/css/main.e99a87c6.css",
+    "main.js": "/magnatic-website-new/static/js/main.ed672dd8.js",
+    "index.html": "/magnatic-website-new/index.html",
+    "main.e99a87c6.css.map": "/magnatic-website-new/static/css/main.e99a87c6.css.map",
+    "main.ed672dd8.js.map": "/magnatic-website-new/static/js/main.ed672dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99a87c6.css",
+    "static/js/main.ed672dd8.js"
+  ]
+}
